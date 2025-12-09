@@ -1,0 +1,13 @@
+reste à faire:
+    --> quand on aura la BDD, ajouter les admins et les utilisateur avec la permission de deposer des ressources. faire la connection avec cette BDD
+
+    --> verification des rooms
+        ||> mettre l'url correspondant au monde virtuel
+
+    --> verification des utilisateurs
+        ||> mettre à jour avec une lecture propre dans la BDD
+
+    --> verification des langues
+        ||> mettre à jour avec un lecture propre dans la BDD
+
+BDD: Base De Données
